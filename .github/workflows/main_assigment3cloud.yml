@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'Assigment3cloud'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B3602A5EC7A04B28AC467567F481AC8F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A4DD739D4E5845A88CEC5731A50EAEE6 }}
           package: .
